@@ -1,4 +1,4 @@
-# Project 5 : AVL
+# Project 5 : AVL Loader
 ### Made for MSU data structures course fall 2019
 
 ### Instructions I was given for this homework project (full PDF in files)
