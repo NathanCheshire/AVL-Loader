@@ -1,5 +1,5 @@
 # Project 5 : AVL Loader
-### Made for MSU data structures course fall 2019
+### Made for data structures
 
 ### Instructions I was given for this homework project (full PDF in files)
 Attention!!! You will be using your BST tree or the BST code base I have provided for this project.
@@ -30,17 +30,8 @@ if they wish to proceed. Remind the user they can save the contents of their AVL
 duplicate of the saved AVL
 10. Exit.
 
-Make certain you inform the user of the available commands and any information pertaining to the
-state of the system such as whether an AVL has been created, the number of nodes in the AVL, etc. 
-This is an individual assignment. Seeking direct help from students, tutors, and websites
-such as chegg or stack overflow will be construed as a violation of the honor code.
 
-This project shares lots of code with the AVL. It would be wise to use your AVL as a starting point for
-implementing the AVL. I will provide you with a working AVL code base, but not a working user interface
-to make this easier.
-
-So, how do we convert a post order traversal back into the original tree? We use the following
-approach:
+Pseudocode for loading a post order traversal back into a tree:
 
     1. Destroy the existing tree
     2. Read the strings from the save file into an array (use a vector for ease of use)
