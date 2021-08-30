@@ -2,18 +2,6 @@
 ### Made for data structures
 
 ### Instructions I was given for this homework project (full PDF in files)
-Attention!!! You will be using your BST tree or the BST code base I have provided for this project.
-For this assignment you must implement an AVL which stores strings. Your AVL must implement all of
-the basic operations we have talked about in class.
-
-Attention!!! You will be using your AVL tree or the AVL code base I have provided for this project. You
-will also need to use the stack and vector STL’s.
-
-For this assignment you will be extending the functionality of your AVL program to including reading
-from and writing to a data file. This data file will store the post order traversal of the tree – I have found
-that writing the string stored by each node on separate lines makes for an easy to read and write
-format.
-
 You should then write a program that allows a user to interact with an instance of the AVL you have
 implemented. This program should implement a text-based interface that allows the user to:
 
