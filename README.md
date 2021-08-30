@@ -1,7 +1,7 @@
 # Project 5 : AVL Loader
 ### Made for data structures
 
-### Instructions I was given for this homework project (full PDF in files)
+### Instructions I was given for this homework project
 You should then write a program that allows a user to interact with an instance of the AVL you have
 implemented. This program should implement a text-based interface that allows the user to:
 
